@@ -1,0 +1,19 @@
+{
+    "token": "NjM5MjA0OTIwMDI4ODIzNjEy.Xbn4NA.CMekeT0OmU5ZrJZtGVPfCRTnPCA",
+    "paths": {
+        "commands": "./commands",
+        "events": "./events"
+    },
+    "prefix": "-",
+    "giveawayeditcooldown": 5000,
+    "maxgiveawayduration": 604800,
+    "removeendedgiveawaydatabase": 172800,
+    "database": {
+        "host": "192.168.0.115",
+        "port": 3307,
+        "user": "GIVEAWAYSBOT",
+        "password": "ooSKwdDc4LDkVn8R",
+        "database": "Giveaways"
+      }
+
+}
